@@ -10,7 +10,7 @@ My name is **Pelumi Olukayode** and I’m a **Software Engineering** student at 
 - 🌱 I’m currently learning Html, CSS,JavaScript, and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/drive/folders/1Kizp_ddQrrW29TlZdOuKclfhdnVia14w) and contact me by emailing olukayodepelumipeace@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1LFmcSIVPpJEtfjXKHqzc45P6Wv7IxyD7/view?usp=sharing) and contact me by emailing olukayodepelumipeace@gmail.com.
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=OluPel&show_icons=true&include_all_commits=true&hide_border=true" alt="OluPel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluPel&langs_count=8&layout=compact&hide_border=true" alt="OluPels GitHub stats" /> |
 | ------------- | ------------- |
