@@ -15,8 +15,6 @@ My name is **Pelumi Olukayode** and I’m a **Software Engineering** student at 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=OluPel&show_icons=true&include_all_commits=true&hide_border=true" alt="OluPel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluPel&langs_count=8&layout=compact&hide_border=true" alt="OluPels GitHub stats" /> |
 | ------------- | ------------- |
 
-| ------------- | ------------- |
-
 ## Languages and Tools I make use of:
   <table>
     <tr>
