@@ -15,6 +15,8 @@ My name is **Pelumi Olukayode** and I’m a **Software Engineering** student at 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=OluPel&show_icons=true&include_all_commits=true&hide_border=true" alt="OluPel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluPel&langs_count=8&layout=compact&hide_border=true" alt="OluPels GitHub stats" /> |
 | ------------- | ------------- |
 
+[![@olu_pel's Holopin board](https://holopin.io/api/user/board?user=olu_pel)](https://holopin.io/@olu_pel)
+
 ## Languages and Tools I make use of:
   <table>
     <tr>
